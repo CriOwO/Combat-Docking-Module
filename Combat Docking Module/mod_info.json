@@ -1,0 +1,10 @@
+{
+  "id":"combat_docking_module",
+	"name":"Combat Docking Module",
+	"author":"CriOwO",	
+	"version":"0.0.6",
+	"description":"Allows small crafts to dock and repair and re-arm to 100% hull and armor and up to 15% of CR each time they are docked during combat.",
+	"gameVersion":"0.97a-RC11",
+	"jars": ["jars/CDM005.jar"],
+	"modPlugin": "data.scripts.cdm_modplugin",
+}

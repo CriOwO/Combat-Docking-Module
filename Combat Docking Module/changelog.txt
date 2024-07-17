@@ -1,0 +1,5 @@
+001 Initial Public Release
+002 Prevent landing on Frigates and Fighters
+003 Added Whitelist
+004 Reduce supplies and fuel use if carrier is available.
+005 Fix null pointer crash if fleet has no carrier on game load.

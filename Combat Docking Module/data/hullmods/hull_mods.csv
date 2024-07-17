@@ -1,0 +1,3 @@
+name,id,tier,rarity,tags,basevalue,unlocked,hidden,hiddenEverywhere,cost_frigate,cost_dest,cost_cruiser,cost_capital,script,desc,short,sprite
+,,,,,,,,,,,,,,,,
+Combat Docking Module,combat_docking_module,,,,,TRUE,FALSE,,3,6,9,12,data.hullmods.CombatDockingModule,Allows small crafts to dock and repair and re-arm to %s hull and armor and up to %s of CR each time they are docked during combat. The craft is also stored during transit inside the carrier and will reduce fuel and supply use by %s.,,graphics/hullmods/detach_always.png
